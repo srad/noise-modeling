@@ -77,3 +77,4 @@ geckodriver.log
 .history
 .vscode
 .idea
+*.gif
